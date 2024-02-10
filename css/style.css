@@ -1,0 +1,66 @@
+header{
+
+    display: flex;
+    
+    /* background-color: maroon; */
+    
+    justify-content: space-between;
+    
+    width: 90%;
+    
+    margin-top: 20px;
+    
+    margin-bottom: 20px;
+    }
+    .logo{
+    
+    width: 20%;
+    
+    /* background-color: red; */
+    }
+    nav
+    {
+    
+    width: 58%;
+    
+    /* background-color: blue; */
+    }
+    header nav  ul
+    {
+    
+    display: flex;
+    
+    list-style: none;
+    
+    justify-content: end;
+    }
+    header nav  ul li
+    {
+    
+    margin-left: 50px;
+    
+    /* text-decoration: none; */
+    }
+    header nav  ul li a
+    {
+    
+    text-decoration: none;
+    
+    color: #626262;
+    
+    text-transform: uppercase;
+    }
+    .banner_section{
+
+width: 90%;
+
+margin-left: 5%;
+
+}
+    .banner_section img
+    {
+        
+width: 100%;
+        
+/* margin-left: 5%; */
+    }
